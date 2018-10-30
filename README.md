@@ -1,2 +1,2 @@
 # Git-Demo
-Multi Workshop on Git and Github.
+Demo for MULTI's introductory workshop on Git and Github.
